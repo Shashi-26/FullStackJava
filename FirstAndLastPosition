@@ -21,6 +21,8 @@ Constraints:
 nums is a non-decreasing array.
 -109 <= target <= 109
 */
+
+
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int a[] = new int [2];
